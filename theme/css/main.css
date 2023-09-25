@@ -63,3 +63,8 @@ aside p {
   margin-bottom: var(--spacing-company);
   line-height: 1.25;
 }
+
+
+.info-table td, .info-table th {
+  padding: 0.2em 0px ;
+}
